@@ -21,8 +21,8 @@ controlarem quais refeições estão disponíveis e quais estão indisponíveis.
 
 ### Como executar
 
-- Clone este repositório ```git clone https://github.com/cmtehenz/gorestaurant.git```
-- Vá até o diretório ```cd gorestaurant```
+- Clone este repositório ```git clone https://github.com/cmtehenz/GoRestaurantWeb.git```
+- Vá até o diretório ```cd GoRestaurantWeb```
 - Execute ```yarn``` para instalar as dependências
 - Execute ```yarn start``` para rodar a aplicação
 - Em outro terminal, execute ```yarn json-server server.json -p 3333``` para executar a simulação de uma API
@@ -35,7 +35,7 @@ Pronto! Você pode visualizar o GoRestaurant através do endereço http://localh
 
 ## :page_with_curl: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/cmtehenz/gorestaurant/blob/master/LICENSE">LICENSE</a> para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo <a href="https://github.com/cmtehenz/GoRestaurantWeb/blob/master/LICENSE">LICENSE</a> para mais detalhes.
 
 <hr />
 <p>by Gustavo Costa :wave: </p>
